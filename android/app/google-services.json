@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584720474176",
+    "project_id": "pruebaexamen-953b4",
+    "storage_bucket": "pruebaexamen-953b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584720474176:android:84079f2c76886635f13fa5",
+        "android_client_info": {
+          "package_name": "com.example.prueba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNNBH70mebww0Zyi2hH3KwZ0ES73UCLDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
